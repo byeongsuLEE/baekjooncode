@@ -31,3 +31,7 @@ git add (파일이름.파일종류)   get add sample.txt
 get commit -m "메세지 "  -> 마스터의 고유 이름이 생김
 
 git push origin master (마스터 파일을 올림)
+
+다른사람이 파일을 수정했을떄
+
+git pull origin master (다운로드)  -> 추가 -> 커밋 전송 
