@@ -22,3 +22,12 @@ git remote add origin 주소 (파일과 저장소를 연결하기)   https://git
 
 
 git push origin master (마스터 파일을 올림)
+
+
+저장소에 바뀐거를 넣기
+
+git add (파일이름.파일종류)   get add sample.txt
+
+get commit -m "메세지 "  -> 마스터의 고유 이름이 생김
+
+git push origin master (마스터 파일을 올림)
